@@ -1,0 +1,411 @@
+"Retailer_ID","Store_Name","License_Application_Submitted_Date","License_Status","License_Number","License_Expiration_Date"
+1,"Store_1",2020-10-24,"Issued","LIC1166",2025-06-12
+2,"Store_2",2023-10-25,"Issued","LIC1202",2026-02-12
+3,"Store_3",2024-01-26,"Pending","LIC1191",2025-10-11
+4,"Store_4",2020-06-20,"Application Submitted","LIC1009",2026-07-26
+5,"Store_5",2022-08-12,"Pending","LIC1171",2026-11-04
+6,"Store_6",2023-05-02,"No Application","LIC1124",2026-06-12
+7,"Store_7",2022-04-07,"Issued","LIC1070",NA
+8,"Store_8",2023-07-22,"No Application","LIC1322",2026-04-29
+9,"Store_9",2023-04-30,"Application Submitted","LIC1206",2025-09-02
+10,"Store_10",2020-01-17,"Application Submitted","LIC1170",2025-12-04
+11,"Store_11",2020-12-30,"Pending","LIC1149",2026-12-21
+12,"Store_12",2023-08-18,"Pending","LIC1312",2025-09-25
+13,"Store_13",2021-12-13,"No Application","LIC1353",2026-03-20
+14,"Store_14",2021-01-26,"No Application","LIC1158",2025-07-09
+15,"Store_15",2020-11-04,"Issued","LIC1094",2025-05-15
+16,"Store_16",2023-06-14,"Pending","LIC1106",2025-03-20
+17,"Store_17",NA,"Application Submitted","LIC1266",NA
+18,"Store_18",NA,"No Application","LIC1202",2025-05-19
+19,"Store_19",NA,"No Application","LIC1026",2025-09-05
+20,"Store_20",2023-02-07,"Pending","LIC1227",2025-03-16
+21,"Store_21",2021-03-15,"Pending","LIC1130",2025-01-28
+22,"Store_22",NA,"No Application","LIC1141",2026-11-22
+23,"Store_23",2020-09-09,"Pending","LIC1241",2026-06-01
+24,"Store_24",2021-11-22,"Application Submitted","LIC1176",NA
+25,"Store_25",2023-05-13,"Application Submitted","LIC1353",2026-10-19
+26,"Store_26",2024-05-21,"Pending","LIC1396",2025-04-10
+27,"Store_27",2023-02-07,"Application Submitted","LIC1014",2025-09-23
+28,"Store_28",2023-08-08,"No Application","LIC1194",2026-12-27
+29,"Store_29",2020-04-30,"Issued","LIC1381",2025-12-07
+30,"Store_30",2024-05-23,"Issued","LIC1029",NA
+31,"Store_31",2020-07-03,"No Application","LIC1402",2026-11-08
+32,"Store_32",2021-12-21,"Issued","LIC1282",2025-10-04
+33,"Store_33",2021-02-21,"Issued","LIC1015",2026-12-28
+34,"Store_34",2021-10-18,"Issued","LIC1383",2025-12-02
+35,"Store_35",2021-06-05,"No Application","LIC1395",2026-09-28
+36,"Store_36",2021-10-05,"Pending","LIC1262",2026-06-21
+37,"Store_37",2020-11-09,"Pending","LIC1279",NA
+38,"Store_38",2020-08-25,"Issued","LIC1149",2026-01-26
+39,"Store_39",2020-08-28,"Issued","LIC1191",2026-09-25
+40,"Store_40",2021-11-29,"Application Submitted","LIC1379",2025-06-13
+41,"Store_41",2022-11-21,"Issued","LIC1325",2026-03-15
+42,"Store_42",2020-05-01,"Issued","LIC1044",2025-11-11
+43,"Store_43",2024-05-23,"Pending","LIC1280",2026-02-17
+44,"Store_44",2021-04-06,"Pending","LIC1082",2026-05-24
+45,"Store_45",2020-12-20,"No Application","LIC1268",2026-12-23
+46,"Store_46",2021-10-11,"Issued","LIC1011",2026-12-03
+47,"Store_47",2021-04-14,"Pending","LIC1385",2026-01-02
+48,"Store_48",2021-04-18,"Issued","LIC1228",2025-11-26
+49,"Store_49",2020-05-12,"Issued","LIC1111",2025-03-03
+50,"Store_50",2021-05-27,"Application Submitted","LIC1331",2026-08-13
+51,"Store_51",2023-04-16,"No Application","LIC1102",NA
+52,"Store_52",2025-01-12,"Pending","LIC1118",NA
+53,"Store_53",2023-03-15,"Issued","LIC1158",2026-05-14
+54,"Store_54",2020-11-25,"No Application","LIC1181",2026-02-17
+55,"Store_55",2024-11-10,"Pending","LIC1232",2026-07-09
+56,"Store_56",NA,"Issued","LIC1252",2025-05-23
+57,"Store_57",2020-12-02,"Issued","LIC1009",2025-10-13
+58,"Store_58",NA,"Pending","LIC1006",2026-05-28
+59,"Store_59",2024-06-13,"Pending","LIC1209",2025-03-27
+60,"Store_60",2024-02-03,"Pending","LIC1333",2025-06-02
+61,"Store_61",NA,"Application Submitted","LIC1388",2026-03-26
+62,"Store_62",2022-01-23,"Issued","LIC1392",2025-01-11
+63,"Store_63",2023-07-17,"No Application","LIC1179",2026-04-26
+64,"Store_64",2020-10-03,"Pending","LIC1088",2025-10-16
+65,"Store_65",2022-07-27,"Pending","LIC1170",2025-11-17
+66,"Store_66",2021-03-03,"Pending","LIC1066",2025-07-08
+67,"Store_67",2022-04-24,"Pending","LIC1347",2025-10-24
+68,"Store_68",2021-01-01,"Pending","LIC1016",2026-12-11
+69,"Store_69",2022-01-18,"Application Submitted","LIC1136",2025-03-25
+70,"Store_70",2025-03-01,"Issued","LIC1140",2025-01-22
+71,"Store_71",2021-02-20,"Issued","LIC1200",2026-09-06
+72,"Store_72",2021-05-22,"Issued","LIC1409",2026-05-24
+73,"Store_73",2020-03-05,"Application Submitted","LIC1168",2025-06-08
+74,"Store_74",2020-02-27,"Application Submitted","LIC1079",NA
+75,"Store_75",2021-03-06,"Pending","LIC1331",2025-06-29
+76,"Store_76",2023-04-27,"Application Submitted","LIC1377",2025-10-06
+77,"Store_77",2024-02-03,"Issued","LIC1224",2026-07-10
+78,"Store_78",2023-11-19,"Application Submitted","LIC1324",2025-08-31
+79,"Store_79",2020-12-06,"Issued","LIC1124",2025-06-21
+80,"Store_80",2024-06-14,"Application Submitted","LIC1337",2025-08-07
+81,"Store_81",2023-10-12,"No Application","LIC1138",2025-06-29
+82,"Store_82",2022-06-17,"Application Submitted","LIC1325",2025-06-20
+83,"Store_83",2024-08-24,"No Application","LIC1298",2026-05-06
+84,"Store_84",2023-11-20,"Issued","LIC1238",2025-05-14
+85,"Store_85",2022-07-04,"No Application","LIC1273",NA
+86,"Store_86",2022-10-19,"Pending","LIC1305",2025-10-22
+87,"Store_87",2025-01-24,"Application Submitted","LIC1097",2025-09-24
+88,"Store_88",NA,"Pending","LIC1355",2025-03-15
+89,"Store_89",2025-01-27,"Issued","LIC1138",2025-12-18
+90,"Store_90",2021-11-08,"No Application","LIC1390",2026-06-12
+91,"Store_91",2022-02-05,"No Application","LIC1017",2025-10-27
+92,"Store_92",2021-12-11,"Issued","LIC1313",2026-04-15
+93,"Store_93",2023-08-08,"No Application","LIC1243",NA
+94,"Store_94",2020-09-11,"Pending","LIC1023",2025-05-27
+95,"Store_95",2022-09-28,"Application Submitted","LIC1081",2026-02-12
+96,"Store_96",2024-02-23,"Pending","LIC1210",2025-01-05
+97,"Store_97",NA,"Application Submitted","LIC1107",2026-10-01
+98,"Store_98",2024-01-09,"No Application","LIC1340",2025-10-12
+99,"Store_99",2024-07-29,"No Application","LIC1306",NA
+100,"Store_100",2023-03-11,"Issued","LIC1063",2025-08-15
+101,"Store_101",2021-11-27,"Pending","LIC1362",2026-05-05
+102,"Store_102",2023-09-03,"Pending","LIC1344",2025-06-14
+103,"Store_103",2024-04-11,"No Application","LIC1030",2025-01-09
+104,"Store_104",2022-06-08,"Pending","LIC1234",2025-04-13
+105,"Store_105",2021-05-24,"Pending","LIC1233",2026-08-28
+106,"Store_106",2021-01-16,"Application Submitted","LIC1105",2026-06-02
+107,"Store_107",2020-02-24,"No Application","LIC1302",2025-05-09
+108,"Store_108",2023-06-15,"No Application","LIC1371",2025-10-09
+109,"Store_109",2021-06-27,"Application Submitted","LIC1129",2026-07-09
+110,"Store_110",2022-03-02,"Issued","LIC1381",2025-01-14
+111,"Store_111",NA,"Issued","LIC1385",2026-03-11
+112,"Store_112",2023-11-30,"Pending","LIC1177",NA
+113,"Store_113",2021-05-24,"Pending","LIC1137",2026-01-07
+114,"Store_114",2025-01-03,"Issued","LIC1037",2026-11-10
+115,"Store_115",2023-09-26,"Application Submitted","LIC1168",2026-11-12
+116,"Store_116",2022-04-30,"Application Submitted","LIC1338",2025-04-28
+117,"Store_117",2020-01-23,"No Application","LIC1092",2025-03-20
+118,"Store_118",2022-06-29,"Issued","LIC1388",2025-02-04
+119,"Store_119",2020-01-09,"Pending","LIC1184",2026-11-25
+120,"Store_120",2024-05-05,"Issued","LIC1167",2026-07-02
+121,"Store_121",2022-05-12,"Issued","LIC1333",2025-05-22
+122,"Store_122",2024-10-08,"Issued","LIC1073",2025-06-08
+123,"Store_123",2022-09-23,"Pending","LIC1098",2026-08-11
+124,"Store_124",2021-12-10,"Pending","LIC1247",2026-01-08
+125,"Store_125",NA,"Application Submitted","LIC1228",2025-03-04
+126,"Store_126",2020-12-13,"Application Submitted","LIC1203",2026-04-06
+127,"Store_127",2020-11-30,"Issued","LIC1064",2026-08-31
+128,"Store_128",2024-03-13,"Issued","LIC1144",2026-01-30
+129,"Store_129",2023-07-07,"Pending","LIC1014",2026-03-04
+130,"Store_130",2024-11-18,"Issued","LIC1210",2026-01-16
+131,"Store_131",NA,"Application Submitted","LIC1075",2026-10-14
+132,"Store_132",2024-06-27,"Pending","LIC1386",2026-01-31
+133,"Store_133",2020-10-21,"Issued","LIC1102",2025-03-25
+134,"Store_134",2024-10-20,"Issued","LIC1046",2026-11-16
+135,"Store_135",2021-08-08,"Issued","LIC1154",NA
+136,"Store_136",2023-03-09,"Pending","LIC1094",2026-01-08
+137,"Store_137",2021-09-10,"No Application","LIC1167",2025-01-28
+138,"Store_138",2024-09-29,"Application Submitted","LIC1195",2026-04-08
+139,"Store_139",2024-08-01,"No Application","LIC1224",2025-11-20
+140,"Store_140",NA,"Issued","LIC1272",2025-07-17
+141,"Store_141",2024-12-24,"Application Submitted","LIC1007",2025-01-16
+142,"Store_142",2023-03-16,"Application Submitted","LIC1147",2026-09-22
+143,"Store_143",2021-03-23,"Pending","LIC1350",2025-08-31
+144,"Store_144",NA,"Pending","LIC1392",2026-08-15
+145,"Store_145",2024-03-17,"Issued","LIC1046",2025-09-08
+146,"Store_146",2023-05-22,"Application Submitted","LIC1318",NA
+147,"Store_147",NA,"Issued","LIC1050",2025-03-06
+148,"Store_148",2021-03-16,"No Application","LIC1041",2026-07-05
+149,"Store_149",2024-05-01,"Issued","LIC1209",2026-05-03
+150,"Store_150",2020-08-24,"Issued","LIC1313",2025-01-21
+151,"Store_151",NA,"Pending","LIC1356",2026-02-05
+152,"Store_152",2020-02-24,"Application Submitted","LIC1343",2025-11-10
+153,"Store_153",2025-02-26,"Pending","LIC1100",2025-02-19
+154,"Store_154",2021-04-25,"No Application","LIC1201",2025-07-01
+155,"Store_155",2024-07-06,"Issued","LIC1010",2026-09-28
+156,"Store_156",2024-04-26,"Issued","LIC1209",2025-03-31
+157,"Store_157",2022-06-06,"Application Submitted","LIC1062",2025-03-10
+158,"Store_158",2022-08-09,"Application Submitted","LIC1082",2025-05-14
+159,"Store_159",2024-07-03,"No Application","LIC1338",2025-08-31
+160,"Store_160",2023-08-27,"Pending","LIC1103",2026-03-21
+161,"Store_161",NA,"No Application","LIC1246",2026-07-10
+162,"Store_162",2023-08-19,"Application Submitted","LIC1183",NA
+163,"Store_163",2020-06-11,"Application Submitted","LIC1202",2025-09-27
+164,"Store_164",2022-07-06,"Application Submitted","LIC1298",2026-06-13
+165,"Store_165",2022-04-26,"Issued","LIC1381",2026-02-25
+166,"Store_166",2020-10-31,"Pending","LIC1371",2026-09-23
+167,"Store_167",NA,"Application Submitted","LIC1244",2026-10-13
+168,"Store_168",2020-10-08,"No Application","LIC1032",2025-10-30
+169,"Store_169",2024-06-22,"No Application","LIC1301",2025-04-23
+170,"Store_170",2020-03-04,"Pending","LIC1308",2026-07-28
+171,"Store_171",2021-03-02,"Pending","LIC1360",2025-09-05
+172,"Store_172",2020-12-10,"Issued","LIC1246",2026-12-06
+173,"Store_173",NA,"Application Submitted","LIC1319",2025-09-25
+174,"Store_174",2022-10-09,"Pending","LIC1197",2026-10-17
+175,"Store_175",2021-08-05,"Issued","LIC1016",2025-12-03
+176,"Store_176",2025-03-01,"Application Submitted","LIC1233",NA
+177,"Store_177",2020-04-19,"No Application","LIC1174",2025-01-28
+178,"Store_178",2023-05-10,"Issued","LIC1176",2025-05-16
+179,"Store_179",2024-06-12,"No Application","LIC1327",2025-09-24
+180,"Store_180",2023-07-21,"No Application","LIC1204",2026-07-16
+181,"Store_181",2021-01-04,"Application Submitted","LIC1025",2025-05-04
+182,"Store_182",2020-05-26,"Pending","LIC1301",2025-08-10
+183,"Store_183",2021-06-22,"Issued","LIC1180",2025-03-09
+184,"Store_184",2021-08-10,"No Application","LIC1065",NA
+185,"Store_185",2023-10-01,"Issued","LIC1101",2026-06-21
+186,"Store_186",2022-10-12,"No Application","LIC1076",2026-08-23
+187,"Store_187",2020-03-11,"Pending","LIC1205",2025-07-18
+188,"Store_188",2022-11-18,"Issued","LIC1038",NA
+189,"Store_189",2024-08-12,"Application Submitted","LIC1266",2025-02-04
+190,"Store_190",2020-06-30,"No Application","LIC1118",2025-01-08
+191,"Store_191",2024-08-14,"Application Submitted","LIC1155",2025-03-08
+192,"Store_192",2024-05-25,"Pending","LIC1080",2026-08-21
+193,"Store_193",2021-07-10,"Application Submitted","LIC1347",2025-01-31
+194,"Store_194",2024-03-03,"Pending","LIC1168",2025-11-07
+195,"Store_195",2020-07-09,"Pending","LIC1096",2025-07-25
+196,"Store_196",2022-01-14,"Application Submitted","LIC1244",2026-04-07
+197,"Store_197",2021-08-19,"Application Submitted","LIC1050",2025-08-19
+198,"Store_198",2022-08-26,"Application Submitted","LIC1214",2026-07-18
+199,"Store_199",2022-09-02,"Issued","LIC1197",2025-01-04
+200,"Store_200",2023-06-19,"No Application","LIC1261",2025-03-05
+201,"Store_201",2023-03-24,"Issued","LIC1305",2025-09-27
+202,"Store_202",2022-08-29,"Issued","LIC1291",2026-09-24
+203,"Store_203",2022-06-25,"Pending","LIC1224",2025-03-06
+204,"Store_204",2020-07-11,"Application Submitted","LIC1341",2026-07-01
+205,"Store_205",2022-03-07,"Application Submitted","LIC1231",2026-10-23
+206,"Store_206",2020-10-03,"Issued","LIC1129",2026-03-10
+207,"Store_207",2025-03-05,"Application Submitted","LIC1082",2026-02-09
+208,"Store_208",2020-10-05,"Application Submitted","LIC1214",2025-08-04
+209,"Store_209",2021-11-30,"No Application","LIC1191",NA
+210,"Store_210",2024-03-11,"No Application","LIC1328",2025-02-06
+211,"Store_211",2024-09-05,"Issued","LIC1407",2026-04-04
+212,"Store_212",2023-08-27,"Pending","LIC1338",2025-07-13
+213,"Store_213",2024-10-21,"Pending","LIC1301",2026-10-16
+214,"Store_214",2021-05-21,"Pending","LIC1277",2026-08-11
+215,"Store_215",2022-02-26,"Application Submitted","LIC1018",2025-01-04
+216,"Store_216",2021-07-15,"Pending","LIC1371",2025-09-21
+217,"Store_217",2023-11-06,"No Application","LIC1392",2026-10-31
+218,"Store_218",2022-02-02,"No Application","LIC1233",2026-07-14
+219,"Store_219",2023-01-24,"Application Submitted","LIC1169",2025-11-12
+220,"Store_220",2024-12-03,"Application Submitted","LIC1223",2025-08-06
+221,"Store_221",2023-05-11,"No Application","LIC1291",2026-01-25
+222,"Store_222",NA,"Application Submitted","LIC1010",2026-01-08
+223,"Store_223",2021-04-30,"Application Submitted","LIC1171",2025-12-19
+224,"Store_224",2020-07-03,"Pending","LIC1023",2026-01-24
+225,"Store_225",2020-11-28,"No Application","LIC1061",2025-06-01
+226,"Store_226",2024-10-07,"Issued","LIC1311",2026-08-09
+227,"Store_227",2022-03-07,"Issued","LIC1306",2025-03-29
+228,"Store_228",2020-11-30,"Application Submitted","LIC1381",2025-09-12
+229,"Store_229",2020-05-01,"Application Submitted","LIC1368",2026-06-15
+230,"Store_230",2022-12-30,"Pending","LIC1165",2025-04-19
+231,"Store_231",2021-07-28,"Issued","LIC1187",NA
+232,"Store_232",2024-01-12,"No Application","LIC1397",2025-01-07
+233,"Store_233",2020-07-26,"Application Submitted","LIC1204",2025-03-02
+234,"Store_234",2021-11-04,"Application Submitted","LIC1236",2025-12-28
+235,"Store_235",2020-11-17,"Application Submitted","LIC1253",2026-07-19
+236,"Store_236",2024-06-24,"Application Submitted","LIC1384",2025-09-01
+237,"Store_237",2023-10-31,"Issued","LIC1232",2025-11-01
+238,"Store_238",2024-02-28,"No Application","LIC1402",2025-11-02
+239,"Store_239",2023-07-27,"Pending","LIC1309",NA
+240,"Store_240",NA,"Issued","LIC1328",2025-06-10
+241,"Store_241",2023-01-14,"Pending","LIC1056",2025-10-03
+242,"Store_242",2022-09-28,"No Application","LIC1339",2025-09-14
+243,"Store_243",2021-02-13,"Application Submitted","LIC1032",2026-05-20
+244,"Store_244",2022-11-10,"Pending","LIC1104",2025-03-13
+245,"Store_245",2022-08-06,"Application Submitted","LIC1205",2025-09-29
+246,"Store_246",2021-01-04,"No Application","LIC1132",2026-06-15
+247,"Store_247",2023-12-19,"Pending","LIC1360",2026-06-22
+248,"Store_248",2023-11-05,"Issued","LIC1342",2026-04-21
+249,"Store_249",2024-03-13,"Application Submitted","LIC1033",2026-10-07
+250,"Store_250",NA,"Issued","LIC1029",2026-04-13
+251,"Store_251",2024-06-15,"Pending","LIC1347",2026-07-17
+252,"Store_252",2022-06-03,"No Application","LIC1144",2025-12-04
+253,"Store_253",2021-10-07,"Pending","LIC1171",NA
+254,"Store_254",2023-06-13,"Pending","LIC1283",2025-05-26
+255,"Store_255",2023-12-11,"Issued","LIC1176",2026-01-02
+256,"Store_256",2024-08-06,"Pending","LIC1014",2025-02-12
+257,"Store_257",2021-01-26,"Application Submitted","LIC1308",2025-01-03
+258,"Store_258",2020-09-30,"Application Submitted","LIC1180",2025-08-09
+259,"Store_259",2023-09-20,"Application Submitted","LIC1183",NA
+260,"Store_260",2021-06-18,"Issued","LIC1197",2026-03-31
+261,"Store_261",2021-09-08,"Application Submitted","LIC1388",2025-05-08
+262,"Store_262",2021-10-05,"Pending","LIC1031",2025-07-30
+263,"Store_263",NA,"Issued","LIC1057",2025-10-08
+264,"Store_264",2024-08-22,"Pending","LIC1288",NA
+265,"Store_265",NA,"Pending","LIC1206",2025-11-03
+266,"Store_266",2021-09-14,"Issued","LIC1149",2025-07-04
+267,"Store_267",2023-05-24,"Pending","LIC1370",2025-11-03
+268,"Store_268",2023-12-17,"Pending","LIC1248",2025-01-07
+269,"Store_269",2024-03-10,"Issued","LIC1321",2026-09-24
+270,"Store_270",NA,"Application Submitted","LIC1310",2026-04-18
+271,"Store_271",2024-04-30,"Application Submitted","LIC1388",2026-08-25
+272,"Store_272",2023-01-02,"Application Submitted","LIC1400",2025-12-01
+273,"Store_273",NA,"No Application","LIC1058",2025-11-03
+274,"Store_274",2024-02-21,"No Application","LIC1249",2026-03-06
+275,"Store_275",2020-11-22,"Application Submitted","LIC1136",2025-07-29
+276,"Store_276",2024-03-19,"No Application","LIC1241",2025-03-31
+277,"Store_277",2021-01-28,"Application Submitted","LIC1384",NA
+278,"Store_278",2021-02-20,"No Application","LIC1258",2026-12-06
+279,"Store_279",NA,"No Application","LIC1394",2025-07-21
+280,"Store_280",2021-12-05,"Application Submitted","LIC1010",2025-02-21
+281,"Store_281",2023-06-13,"Issued","LIC1176",2025-10-17
+282,"Store_282",2021-06-09,"Pending","LIC1356",2026-07-07
+283,"Store_283",2020-02-22,"Issued","LIC1284",2025-06-02
+284,"Store_284",2023-07-03,"Issued","LIC1167",2025-06-03
+285,"Store_285",2022-07-15,"No Application","LIC1398",2025-06-04
+286,"Store_286",2022-01-07,"Issued","LIC1142",2026-09-26
+287,"Store_287",2024-12-08,"Application Submitted","LIC1401",2026-07-15
+288,"Store_288",2023-12-17,"Pending","LIC1126",2026-06-05
+289,"Store_289",2025-02-21,"No Application","LIC1369",2025-02-22
+290,"Store_290",2023-02-16,"Application Submitted","LIC1053",2026-11-01
+291,"Store_291",2022-12-12,"Issued","LIC1033",2025-02-01
+292,"Store_292",2021-07-20,"No Application","LIC1028",2026-12-02
+293,"Store_293",2022-04-12,"Issued","LIC1310",NA
+294,"Store_294",2021-03-10,"Pending","LIC1350",2026-10-17
+295,"Store_295",2024-03-08,"Application Submitted","LIC1072",2025-09-02
+296,"Store_296",2024-04-20,"Pending","LIC1239",2026-01-18
+297,"Store_297",2024-04-28,"Pending","LIC1373",2025-03-13
+298,"Store_298",2023-03-14,"Application Submitted","LIC1194",2026-11-26
+299,"Store_299",2022-06-13,"Application Submitted","LIC1363",NA
+300,"Store_300",2024-12-17,"Issued","LIC1082",2025-03-18
+301,"Store_301",2025-01-08,"Application Submitted","LIC1018",2026-02-20
+302,"Store_302",2022-04-28,"No Application","LIC1068",2026-12-20
+303,"Store_303",2023-12-07,"No Application","LIC1375",2026-10-06
+304,"Store_304",2020-03-23,"Issued","LIC1086",2025-04-07
+305,"Store_305",2023-11-24,"No Application","LIC1387",NA
+306,"Store_306",2023-08-11,"No Application","LIC1040",2025-11-04
+307,"Store_307",2023-08-22,"Application Submitted","LIC1212",2026-05-21
+308,"Store_308",2022-04-20,"Application Submitted","LIC1088",2025-02-20
+309,"Store_309",2021-10-21,"Issued","LIC1379",2025-01-18
+310,"Store_310",2023-08-06,"No Application","LIC1004",2026-08-14
+311,"Store_311",2023-11-03,"Pending","LIC1387",2025-02-08
+312,"Store_312",NA,"Pending","LIC1133",2026-04-13
+313,"Store_313",2021-12-08,"Issued","LIC1184",2026-04-19
+314,"Store_314",2021-08-03,"Application Submitted","LIC1127",2025-05-09
+315,"Store_315",2021-03-06,"Application Submitted","LIC1102",2025-08-02
+316,"Store_316",2020-10-01,"Application Submitted","LIC1060",2026-08-09
+317,"Store_317",2022-02-20,"No Application","LIC1124",2026-06-15
+318,"Store_318",2023-04-08,"Issued","LIC1082",2025-01-12
+319,"Store_319",2024-06-10,"Application Submitted","LIC1291",2025-08-29
+320,"Store_320",2023-01-15,"No Application","LIC1304",2026-12-28
+321,"Store_321",2021-12-02,"Pending","LIC1288",2026-06-18
+322,"Store_322",2022-07-16,"No Application","LIC1220",2026-02-08
+323,"Store_323",2024-05-07,"Issued","LIC1272",2026-01-15
+324,"Store_324",NA,"Issued","LIC1150",2026-04-12
+325,"Store_325",2020-11-22,"Issued","LIC1229",2025-01-15
+326,"Store_326",2020-08-09,"Issued","LIC1062",2025-02-20
+327,"Store_327",2022-11-28,"Issued","LIC1001",NA
+328,"Store_328",2023-12-28,"No Application","LIC1346",2025-09-29
+329,"Store_329",2022-11-12,"No Application","LIC1327",2026-06-09
+330,"Store_330",NA,"Issued","LIC1064",2025-11-01
+331,"Store_331",2020-06-09,"Application Submitted","LIC1316",2026-02-04
+332,"Store_332",2024-06-19,"Issued","LIC1073",2026-01-14
+333,"Store_333",2024-09-24,"No Application","LIC1003",2025-02-21
+334,"Store_334",2024-05-09,"No Application","LIC1059",2025-10-25
+335,"Store_335",2023-12-14,"Pending","LIC1029",2026-10-20
+336,"Store_336",2022-12-12,"Pending","LIC1166",2026-01-06
+337,"Store_337",2022-08-29,"No Application","LIC1343",2025-01-30
+338,"Store_338",2024-05-20,"Pending","LIC1160",2026-04-15
+339,"Store_339",2025-02-23,"No Application","LIC1279",2026-05-11
+340,"Store_340",2024-12-26,"Pending","LIC1245",NA
+341,"Store_341",2022-09-21,"Pending","LIC1106",NA
+342,"Store_342",2022-04-07,"Application Submitted","LIC1221",2026-03-19
+343,"Store_343",2021-08-29,"Pending","LIC1172",NA
+344,"Store_344",2022-03-30,"Pending","LIC1379",2025-03-16
+345,"Store_345",2020-04-03,"Pending","LIC1062",2026-11-26
+346,"Store_346",2022-08-07,"Application Submitted","LIC1055",2026-01-06
+347,"Store_347",2020-05-25,"Application Submitted","LIC1324",2025-02-01
+348,"Store_348",2021-07-14,"Pending","LIC1184",NA
+349,"Store_349",2023-04-30,"No Application","LIC1197",2025-04-13
+350,"Store_350",NA,"Application Submitted","LIC1315",2026-06-25
+351,"Store_351",NA,"Issued","LIC1390",2026-03-02
+352,"Store_352",2021-02-10,"No Application","LIC1124",2026-10-04
+353,"Store_353",NA,"Pending","LIC1140",2025-08-09
+354,"Store_354",2022-10-11,"Pending","LIC1012",2025-10-12
+355,"Store_355",2021-11-01,"Pending","LIC1008",2026-07-12
+356,"Store_356",2021-04-05,"Pending","LIC1050",2026-06-29
+357,"Store_357",2023-07-15,"Application Submitted","LIC1124",2026-11-16
+358,"Store_358",2021-07-20,"Pending","LIC1002",NA
+359,"Store_359",2024-09-01,"No Application","LIC1076",2026-05-30
+360,"Store_360",2024-01-04,"Issued","LIC1158",2026-06-12
+361,"Store_361",2021-05-04,"No Application","LIC1341",2025-07-20
+362,"Store_362",NA,"Pending","LIC1362",2026-04-22
+363,"Store_363",2020-08-01,"Application Submitted","LIC1184",2025-03-24
+364,"Store_364",2022-04-04,"No Application","LIC1275",2026-09-19
+365,"Store_365",2024-04-21,"Application Submitted","LIC1128",2026-05-20
+366,"Store_366",2024-04-05,"Issued","LIC1340",2025-02-21
+367,"Store_367",2021-05-06,"No Application","LIC1031",2026-08-07
+368,"Store_368",NA,"Pending","LIC1199",NA
+369,"Store_369",2024-07-06,"Pending","LIC1091",2026-08-31
+370,"Store_370",2021-07-15,"No Application","LIC1279",2026-11-26
+371,"Store_371",2021-07-25,"Application Submitted","LIC1038",NA
+372,"Store_372",2021-06-19,"No Application","LIC1317",2025-06-10
+373,"Store_373",NA,"Issued","LIC1234",2026-06-19
+374,"Store_374",2020-09-08,"Issued","LIC1250",2025-01-27
+375,"Store_375",2022-12-01,"Pending","LIC1180",2026-02-07
+376,"Store_376",2021-01-10,"Issued","LIC1123",2026-05-11
+377,"Store_377",2021-10-13,"Pending","LIC1078",2025-06-17
+378,"Store_378",2023-08-12,"Application Submitted","LIC1127",2025-07-23
+379,"Store_379",NA,"Application Submitted","LIC1303",2025-09-24
+380,"Store_380",2022-06-11,"Issued","LIC1321",2025-09-22
+381,"Store_381",2020-07-05,"No Application","LIC1145",2026-06-29
+382,"Store_382",2021-11-11,"Application Submitted","LIC1283",2025-11-15
+383,"Store_383",2021-11-05,"Application Submitted","LIC1187",2026-02-25
+384,"Store_384",2024-06-09,"Issued","LIC1029",2025-05-02
+385,"Store_385",2020-01-21,"No Application","LIC1230",2026-06-06
+386,"Store_386",2020-07-27,"No Application","LIC1109",2026-04-27
+387,"Store_387",2025-01-17,"Issued","LIC1189",2025-11-22
+388,"Store_388",2023-09-17,"Pending","LIC1301",2025-10-09
+389,"Store_389",2020-07-21,"Pending","LIC1202",2025-09-03
+390,"Store_390",2024-04-07,"Pending","LIC1345",NA
+391,"Store_391",2022-06-29,"No Application","LIC1223",NA
+392,"Store_392",NA,"Pending","LIC1075",2025-06-13
+393,"Store_393",2021-02-15,"No Application","LIC1111",2025-08-25
+394,"Store_394",2024-08-07,"Pending","LIC1113",2025-06-01
+395,"Store_395",2022-03-08,"No Application","LIC1001",2026-01-06
+396,"Store_396",2025-02-07,"No Application","LIC1067",2025-02-15
+397,"Store_397",2025-02-14,"Application Submitted","LIC1031",NA
+398,"Store_398",NA,"No Application","LIC1382",2026-12-19
+399,"Store_399",2021-08-26,"No Application","LIC1286",2025-08-13
+400,"Store_400",2025-02-24,"No Application","LIC1120",2026-08-22
+401,"Store_401",2023-02-25,"Application Submitted","LIC1110",2026-08-20
+402,"Store_402",2020-04-30,"Application Submitted","LIC1264",2026-01-25
+403,"Store_403",NA,"Application Submitted","LIC1080",2025-12-09
+404,"Store_404",2020-06-09,"Pending","LIC1167",2025-05-19
+405,"Store_405",2024-02-05,"Pending","LIC1215",NA
+406,"Store_406",NA,"Pending","LIC1169",2026-08-31
+407,"Store_407",2022-06-04,"Pending","LIC1053",2026-10-09
+408,"Store_408",2024-05-12,"Application Submitted","LIC1177",2025-09-14
+409,"Store_409",2022-09-19,"Application Submitted","LIC1388",2025-06-25
+410,"Store_410",2020-10-21,"Application Submitted","LIC1208",NA
