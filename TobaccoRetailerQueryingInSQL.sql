@@ -1,10 +1,6 @@
---PRELIMINARY ITEM: The following files can be utilized
---for the tables in this database: tobacco_retailer_info.csv,
---license_tracking.csv, and compliance_visits.csv
+--PRELIMINARY ITEM: The following files can be utilized for the tables in this database: tobacco_retailer_info.csv, license_tracking.csv, and compliance_visits.csv
 
---Let's assume we got a request to identify the store types who
---have a sale to minor violation
-
+--Let's assume we got a request to identify the store types who have a sale to minor violation
 --First, we perform a join
 
 SELECT * FROM compliance_visits c
@@ -20,13 +16,9 @@ ON c.retailer_id=t.retailer_id
 WHERE sale_to_minor_violation = 'Yes'
 GROUP BY store_type
 
---Based off the previous output, we can see
---that the store type with the most
---sale to minor violations is the Convenience store
---type with 42
+--Based on the previous output, we can see that the store type with the most sale to minor violations is the Convenience store type with 42
 
---Now, let's assume we want to know the store type
---with flavored product violations
+--Now, let's assume we want to know the store type with flavored product violations
 
 SELECT COUNT(flavored_tobacco_violation), store_type 
 FROM compliance_visits c
@@ -35,24 +27,16 @@ ON c.retailer_id=t.retailer_id
 WHERE flavored_tobacco_violation = 'Yes'
 GROUP BY store_type
 
---This time, we see that gas stations have more
---flavored product violations 35
+--This time, we see that gas stations have more flavored product violations 35
 
---Yes and No responses are great, but what if we want
---to know if the retailers are overall compliant after
---the inspection visit?
+--Yes and No responses are great, but what if we want to know if the retailers are compliant overall after the inspection visit?
 
---Let's add a column to the compliance visit table
---to give us a new column that tells us if the
---retailer is overall compliant or noncompliant
+--Let's add a column to the compliance visit table to give us a new column that tells us if the retailer is compliant or noncompliant overall
 
 ALTER TABLE compliance_visits
 ADD compliance_status TEXT
 
---Now that we have a new column, let's update
---the records for the new column by assigning
---the new overall compliance status based off
---the conditions in the violations columns
+--Now that we have a new column, let's update the records for the new column by assigning the new overall compliance status based off the conditions in the violations columns
 
 UPDATE compliance_visits
 SET compliance_status =
@@ -65,19 +49,16 @@ CASE
 	ELSE 'Noncompliant'
 	END
 	
---Now that we have that, let's see if the updated 
---table has the new column with the new records
+--Now that we have that, let's see if the updated table has the new column with the new records
 
 SELECT compliance_status FROM compliance_visits
 
---Let's get a count of how many retailers are
---compliant or noncompliant
+--Let's get a count of how many retailers are compliant or noncompliant
 
 SELECT compliance_status, COUNT(compliance_status) FROM compliance_visits
 GROUP BY compliance_status
 
---Now let's perform another join to see the expiration dates
---for the compliant retailers.
+--Now let's perform another join to see the expiration dates for the compliant retailers.
 
 SELECT *
 FROM compliance_visits c
